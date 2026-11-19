@@ -1,0 +1,344 @@
+{
+ "tag": "BRSH",
+ "outcome_column": "ext__brsh_SR",
+ "outcome_label_en": "Toothbrushing after lunch, adults ≥19 y (KCHS; brushed teeth after lunch on the previous day; age-sex standardised to the 2005 projected population)",
+ "disease_ko": "점심 식사 후 칫솔질 실천율",
+ "disease_en": "Toothbrushing after lunch (self-reported)",
+ "forced": [
+  "urban_population_share",
+  "clinics_per_100k",
+  "sex_ratio",
+  "fiscal_independence",
+  "pop80_share"
+ ],
+ "candidates": [
+  "walking_practice_rate",
+  "moderate_pa_rate",
+  "public_sports_facilities_per_100k",
+  "current_smoking_rate",
+  "high_risk_drinking_rate_drinkers",
+  "tertiary_educated_share",
+  "basic_livelihood_rate",
+  "dentists_per_100k",
+  "ext__manufacturing_share"
+ ],
+ "negative_controls": [
+  "fires_per_10000",
+  "multicultural_marriage_share",
+  "rear_seatbelt_wearing_rate"
+ ],
+ "sets": {
+  "S1_narrative_full": [
+   "walking_practice_rate",
+   "moderate_pa_rate",
+   "public_sports_facilities_per_100k",
+   "current_smoking_rate",
+   "high_risk_drinking_rate_drinkers",
+   "tertiary_educated_share",
+   "basic_livelihood_rate",
+   "dentists_per_100k",
+   "ext__manufacturing_share"
+  ],
+  "S2_activity": [
+   "walking_practice_rate",
+   "moderate_pa_rate",
+   "public_sports_facilities_per_100k"
+  ],
+  "S3_risk_behaviour": [
+   "current_smoking_rate",
+   "high_risk_drinking_rate_drinkers"
+  ],
+  "S4_social_work": [
+   "tertiary_educated_share",
+   "basic_livelihood_rate",
+   "dentists_per_100k",
+   "ext__manufacturing_share"
+  ],
+  "S5_core": [
+   "walking_practice_rate",
+   "current_smoking_rate",
+   "tertiary_educated_share",
+   "dentists_per_100k",
+   "ext__manufacturing_share"
+  ],
+  "S1b_obesity_sensitivity": [
+   "walking_practice_rate",
+   "moderate_pa_rate",
+   "public_sports_facilities_per_100k",
+   "current_smoking_rate",
+   "high_risk_drinking_rate_drinkers",
+   "tertiary_educated_share",
+   "basic_livelihood_rate",
+   "dentists_per_100k",
+   "ext__manufacturing_share",
+   "obesity_rate"
+  ]
+ },
+ "sensitivity_sets": [
+  "S1b_obesity_sensitivity"
+ ],
+ "sensitivity_only_vars": [
+  "obesity_rate"
+ ],
+ "offset_column": "population",
+ "offset_sensitivity": null,
+ "offset_fallback": null,
+ "exclude_years": [],
+ "vars": {
+  "urban_population_share": {
+   "key": "urban_population_share",
+   "column": "eloc__DT_1YL20421E__1인당도시지역면적현황__도시지역인구",
+   "transform": "pct_of_pop",
+   "label_en": "Urban-zone population share (%)",
+   "label_ko": "도시지역 인구 비율",
+   "expected_direction": "",
+   "role": "forced",
+   "raw_key": "eloc__DT_1YL20421E__1인당도시지역면적현황__도시지역인구"
+  },
+  "clinics_per_100k": {
+   "key": "clinics_per_100k",
+   "column": "chk__요양기관_의원",
+   "transform": "per100k",
+   "label_en": "Clinics per 100k",
+   "label_ko": "의원 수(10만 명당)",
+   "expected_direction": "",
+   "role": "forced",
+   "raw_key": "chk__요양기관_의원"
+  },
+  "sex_ratio": {
+   "key": "sex_ratio",
+   "column": "eloc__DT_1YL20701__남녀성비＜br＞(A÷B×100)",
+   "transform": "none",
+   "label_en": "Sex ratio (men per 100 women)",
+   "label_ko": "남녀성비",
+   "expected_direction": "",
+   "role": "forced",
+   "raw_key": "eloc__DT_1YL20701__남녀성비＜br＞(A÷B×100)"
+  },
+  "fiscal_independence": {
+   "key": "fiscal_independence",
+   "column": "eloc__DT_1YL20891__재정자주도(세입과목개편전)",
+   "transform": "none",
+   "label_en": "Fiscal independence (%)",
+   "label_ko": "재정자주도",
+   "expected_direction": "",
+   "role": "forced",
+   "raw_key": "eloc__DT_1YL20891__재정자주도(세입과목개편전)"
+  },
+  "pop80_share": {
+   "key": "pop80_share",
+   "column": "ext__pop80_share",
+   "transform": "none",
+   "label_en": "Population aged 80+ share (%)",
+   "label_ko": "80세 이상 인구 비율",
+   "expected_direction": "",
+   "role": "forced",
+   "raw_key": "ext__pop80_share"
+  },
+  "walking_practice_rate": {
+   "key": "walking_practice_rate",
+   "column": "kchs__DT_H_EX_WALK__SR",
+   "transform": "none",
+   "label_en": "Walking practice rate (SR %)",
+   "label_ko": "걷기 실천율",
+   "expected_direction": "+",
+   "role": "candidate",
+   "raw_key": "kchs__DT_H_EX_WALK__SR"
+  },
+  "moderate_pa_rate": {
+   "key": "moderate_pa_rate",
+   "column": "kchs__DT_H_EX_PHY__SR",
+   "transform": "none",
+   "label_en": "Moderate-or-higher physical activity rate (SR %)",
+   "label_ko": "중강도 이상 신체활동 실천율",
+   "expected_direction": "+",
+   "role": "candidate",
+   "raw_key": "kchs__DT_H_EX_PHY__SR"
+  },
+  "public_sports_facilities_per_100k": {
+   "key": "public_sports_facilities_per_100k",
+   "column": "fac__total",
+   "transform": "per100k",
+   "label_en": "Public sports facilities per 100k",
+   "label_ko": "공공체육시설 수(10만 명당)",
+   "expected_direction": "+",
+   "role": "candidate",
+   "raw_key": "fac__total"
+  },
+  "current_smoking_rate": {
+   "key": "current_smoking_rate",
+   "column": "kchs__DT_H_SM__SR",
+   "transform": "none",
+   "label_en": "Current smoking rate (SR %)",
+   "label_ko": "현재흡연율",
+   "expected_direction": "-",
+   "role": "candidate",
+   "raw_key": "kchs__DT_H_SM__SR"
+  },
+  "high_risk_drinking_rate_drinkers": {
+   "key": "high_risk_drinking_rate_drinkers",
+   "column": "kchs__DT_H_DR_HIGH__SR",
+   "transform": "none",
+   "label_en": "High-risk drinking rate among drinkers (SR %)",
+   "label_ko": "연간음주자 고위험음주율",
+   "expected_direction": "-",
+   "role": "candidate",
+   "raw_key": "kchs__DT_H_DR_HIGH__SR"
+  },
+  "tertiary_educated_share": {
+   "key": "tertiary_educated_share",
+   "column": "ext__tertiary_educated_share",
+   "transform": "none",
+   "label_en": "Tertiary-educated share (%)",
+   "label_ko": "고등교육 이수 비율",
+   "expected_direction": "+",
+   "role": "candidate",
+   "raw_key": "ext__tertiary_educated_share"
+  },
+  "basic_livelihood_rate": {
+   "key": "basic_livelihood_rate",
+   "column": "ext__basic_livelihood_rate",
+   "transform": "none",
+   "label_en": "Basic-livelihood security recipient rate (%)",
+   "label_ko": "국민기초생활보장 수급자 비율",
+   "expected_direction": "-",
+   "role": "candidate",
+   "raw_key": "ext__basic_livelihood_rate"
+  },
+  "dentists_per_100k": {
+   "key": "dentists_per_100k",
+   "column": "ext__dentists_per100k",
+   "transform": "log",
+   "label_en": "Dentists per 100k (log)",
+   "label_ko": "치과의사 수(10만 명당 로그)",
+   "expected_direction": "+",
+   "role": "candidate",
+   "raw_key": "ext__dentists_per100k"
+  },
+  "ext__manufacturing_share": {
+   "key": "ext__manufacturing_share",
+   "column": "ext__manufacturing_share",
+   "transform": "none",
+   "label_en": "ext__manufacturing_share",
+   "label_ko": "ext__manufacturing_share",
+   "expected_direction": "-",
+   "role": "candidate",
+   "raw_key": "ext__manufacturing_share"
+  },
+  "obesity_rate": {
+   "key": "obesity_rate",
+   "column": "kchs__DT_H_OBE_OBE__SR",
+   "transform": "none",
+   "label_en": "Obesity rate (self-reported SR %)",
+   "label_ko": "비만율(자가보고)",
+   "expected_direction": "",
+   "role": "candidate_sensitivity",
+   "raw_key": "kchs__DT_H_OBE_OBE__SR"
+  },
+  "fires_per_10000": {
+   "key": "fires_per_10000",
+   "column": "eloc__DT_1YL21081__주민만명당화재발생건수＜br＞(A÷B×10000)",
+   "transform": "none",
+   "label_en": "Fires per 10000 residents",
+   "label_ko": "주민 만명당 화재 건수",
+   "expected_direction": "",
+   "role": "negative",
+   "raw_key": "eloc__DT_1YL21081__주민만명당화재발생건수＜br＞(A÷B×10000)"
+  },
+  "multicultural_marriage_share": {
+   "key": "multicultural_marriage_share",
+   "column": "eloc__INH_1BB0002__다문화혼인비중(%)",
+   "transform": "none",
+   "label_en": "Multicultural marriage share (%)",
+   "label_ko": "다문화 혼인 비중",
+   "expected_direction": "",
+   "role": "negative",
+   "raw_key": "eloc__INH_1BB0002__다문화혼인비중(%)"
+  },
+  "rear_seatbelt_wearing_rate": {
+   "key": "rear_seatbelt_wearing_rate",
+   "column": "kchs__DT_117075_H_BELT_BACK__SR",
+   "transform": "none",
+   "label_en": "Rear-seat belt wearing rate (SR %)",
+   "label_ko": "뒷좌석 안전벨트 착용률",
+   "expected_direction": "",
+   "role": "negative",
+   "raw_key": "kchs__DT_117075_H_BELT_BACK__SR"
+  }
+ },
+ "rules": {
+  "waic_tol": 4.0,
+  "cpo_fail_frac": 0.05,
+  "main_set": "S1_narrative_full",
+  "vif_threshold": 10.0,
+  "vif_action": "report",
+  "multiverse_n": 200,
+  "windows": {
+   "W1_2014-19": [
+    2014,
+    2019
+   ],
+   "W2_2020-24": [
+    2020,
+    2024
+   ]
+  },
+  "covid_post_from": 2020,
+  "years": [
+   2014,
+   2024
+  ]
+ },
+ "suffix": "_std3",
+ "offset_E_column": null,
+ "offset_E_file": null,
+ "offset_E_sensitivity_column": null,
+ "offset_E_label": null,
+ "sets_after_vif": {
+  "S1_narrative_full": [
+   "walking_practice_rate",
+   "moderate_pa_rate",
+   "public_sports_facilities_per_100k",
+   "current_smoking_rate",
+   "high_risk_drinking_rate_drinkers",
+   "tertiary_educated_share",
+   "basic_livelihood_rate",
+   "dentists_per_100k",
+   "ext__manufacturing_share"
+  ],
+  "S2_activity": [
+   "walking_practice_rate",
+   "moderate_pa_rate",
+   "public_sports_facilities_per_100k"
+  ],
+  "S3_risk_behaviour": [
+   "current_smoking_rate",
+   "high_risk_drinking_rate_drinkers"
+  ],
+  "S4_social_work": [
+   "tertiary_educated_share",
+   "basic_livelihood_rate",
+   "dentists_per_100k",
+   "ext__manufacturing_share"
+  ],
+  "S5_core": [
+   "walking_practice_rate",
+   "current_smoking_rate",
+   "tertiary_educated_share",
+   "dentists_per_100k",
+   "ext__manufacturing_share"
+  ],
+  "S1b_obesity_sensitivity": [
+   "walking_practice_rate",
+   "moderate_pa_rate",
+   "public_sports_facilities_per_100k",
+   "current_smoking_rate",
+   "high_risk_drinking_rate_drinkers",
+   "tertiary_educated_share",
+   "basic_livelihood_rate",
+   "dentists_per_100k",
+   "ext__manufacturing_share",
+   "obesity_rate"
+  ]
+ }
+}

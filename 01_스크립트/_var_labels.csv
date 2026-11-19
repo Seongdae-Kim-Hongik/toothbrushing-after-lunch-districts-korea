@@ -1,0 +1,165 @@
+﻿column,key,label_en,label_ko
+chk__요양기관_계,care_institutions_per_100k,Care institutions per 100k,요양기관 수(10만 명당)
+eloc__DT_1YL20421E__1인당도시지역면적현황__도시지역인구,urban_population_share,Urban-zone population share (%),도시지역 인구 비율
+eloc__DT_1YL21291E__도시지역면적,urban_area_share,Urban-zone area share (%),도시지역면적 비율
+eloc__DT_1YL20631__고령인구비율＜br＞(A÷B×100),older_adult_share,Older-adult share (65+ %),고령인구비율
+eloc__DT_1YL20701__남녀성비＜br＞(A÷B×100),sex_ratio,Sex ratio (men per 100 women),남녀성비
+eloc__DT_1YL20891__재정자주도(세입과목개편전),fiscal_independence,Fiscal independence (%),재정자주도
+eloc__DT_1YL20921__재정자립도(세입과목개편전),fiscal_self_reliance,Fiscal self-reliance (%),재정자립도
+eloc__DT_1YL20981__인구천명당의료기관종사의사수＜br＞(A÷B×1000),physicians_per_1000,Physicians per 1000,인구 천명당 의사 수
+eloc__DT_1YL20971__인구천명당의료기관병상수＜br＞(A÷B×1000),beds_per_1000,Hospital beds per 1000,인구 천명당 병상 수
+kchs__DT_H_BELT__SR,seatbelt_wearing_rate,Driver seat-belt wearing rate (SR %),운전자 안전벨트 착용률
+eloc__DT_1YL13901__뺑소니교통사고율＜br＞(A÷B×100),hit_and_run_rate,Hit-and-run traffic accident rate (%),뺑소니 교통사고율
+eloc__DT_1YL20331__지수__계,traffic_culture_index,Traffic culture index,교통문화지수
+eloc__DT_1YL202108__사고건수,older_traffic_accidents_per_100k,Older-adult traffic accidents per 100k,노인 교통사고 건수(10만 명당)
+pop__합계출산율,total_fertility_rate,Total fertility rate,합계출산율
+kchs__DT_117075_H_DR_HIGH_WH__SR,high_risk_drinking_rate,High-risk drinking rate (SR %),고위험음주율
+kchs__DT_H_DR_HIGH__SR,high_risk_drinking_rate_drinkers,High-risk drinking rate among drinkers (SR %),연간음주자 고위험음주율
+kchs__DT_H_EX_PHY__SR,moderate_pa_rate,Moderate-or-higher physical activity rate (SR %),중강도 이상 신체활동 실천율
+kchs__DT_H_EX_WALK__SR,walking_practice_rate,Walking practice rate (SR %),걷기 실천율
+kchs__DT_H_MENTAL_STRESS__SR,perceived_stress_rate,Perceived stress rate (SR %),스트레스 인지율
+kchs__DT_H_OR_BRUSH__SR,toothbrushing_after_lunch_rate,Toothbrushing-after-lunch rate (SR %),점심 후 칫솔질 실천율
+kchs__DT_H_SM__SR,current_smoking_rate,Current smoking rate (SR %),현재흡연율
+kchs__DT_H_OBE_OBE__SR,obesity_rate,Obesity rate (self-reported SR %),비만율(자가보고)
+kchs__DT_H_OR_INCONV__SR,chewing_discomfort_rate_65plus,Chewing discomfort rate 65+ (SR %),저작불편호소율(65세 이상)
+nhis__의료급여1종__진료실인원수,medical_aid1_patients_per_100k,Medical Aid type 1 treated patients per 100k,의료급여 1종 진료실인원(10만 명당)
+chk__수검률,screening_uptake,Health screening uptake (%),건강검진 수검률
+chk__정상B_비만관리_수검자대비비율,screening_normalB_obesity_share,Screening normal-B obesity-management share (%),검진 정상B 비만관리 비율
+chk__정상B_당뇨관리_수검자대비비율,screening_normalB_diabetes_share,Screening normal-B diabetes-management share (%),검진 정상B 당뇨관리 비율
+fac__생활체육관,community_gyms_per_100k,Public community gyms per 100k,생활체육관 수(10만 명당)
+fac__수영장,public_pools_per_100k,Public swimming pools per 100k,공공 수영장 수(10만 명당)
+fac__total,public_sports_facilities_per_100k,Public sports facilities per 100k,공공체육시설 수(10만 명당)
+vil__계,village_sports_facilities_per_100k,Village sports facilities per 100k,마을체육시설 수(10만 명당)
+vil__간이운동시설_계,village_simple_exercise_facilities_per_100k,Village simple exercise facilities per 100k,마을 간이운동시설 수(10만 명당)
+eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100),older_single_household_share,Older-adult single-person household share (%),독거노인가구비율
+eloc__DT_1YL15004__상용직비중＜br＞(A÷B×100),regular_employee_share,Regular-employee share (%),상용직 비중
+eloc__DT_1YL202004__노후주택비율(A÷B×100),old_housing_share,Old housing share (%),노후주택비율
+eloc__DT_1YL202105E__비율__녹지지역,green_area_share,Green-zone share of urban area (%),녹지율
+eloc__DT_1YL21161__1인가구비율＜br＞(A÷B×100),single_person_household_share,Single-person household share (%),1인가구비율
+chk__요양기관_요양병원,long_term_care_hospitals_per_100k,Long-term care hospitals per 100k,요양병원 수(10만 명당)
+chk__요양기관_의원,clinics_per_100k,Clinics per 100k,의원 수(10만 명당)
+chk__정상B_이상지질혈증관리_수검자대비비율,screening_normalB_dyslipidemia_share,Screening normal-B dyslipidaemia-management share (%),검진 정상B 이상지질혈증관리 비율
+eloc__DT_1YL14001__음주운전교통사고비율＜br＞(A÷B×100),drunk_driving_accident_share,Drunk-driving traffic accident share (%),음주운전 교통사고 비율
+eloc__DT_1YL15001__전체,pupils_per_class,Pupils per class,학급당 학생 수
+eloc__DT_1YL202005__미거주주택(빈집)비율(A÷B×100),vacant_housing_share,Vacant housing share (%),빈집 비율
+eloc__DT_1YL20721__도로포장률＜br＞(A÷B×100),road_pavement_rate,Road pavement rate (%),도로포장률
+eloc__DT_1YL20731__1인당자동차등록대수＜br＞(A÷B),cars_per_capita,Registered cars per capita,1인당 자동차 등록대수
+eloc__DT_1YL20751__보급률,sewerage_coverage,Sewerage coverage (%),하수도 보급률
+eloc__DT_1YL20931__인구십만명당문화기반시설수＜br＞(A÷B×100000),cultural_facilities_per_100k,Cultural facilities per 100k,문화기반시설 수(10만 명당)
+eloc__DT_1YL20941__인구십만명당사회복지시설수＜br＞(A÷B×100000),social_welfare_facilities_per_100k,Social welfare facilities per 100k,사회복지시설 수(10만 명당)
+eloc__DT_1YL20951__유아천명당보육시설수＜br＞(A÷B×1000),childcare_facilities_per_1000_infants,Childcare facilities per 1000 infants,유아 천명당 보육시설 수
+eloc__DT_1YL20951__주민등록인구(0~5세)＜br＞(B),infant_population_share,Infant population (0-5 y) share (%),영유아(0~5세) 인구 비율
+eloc__DT_1YL20961__노인천명당노인여가복지시설수＜br＞(A÷B×1000),older_leisure_facilities_per_1000,Older-adult leisure facilities per 1000 older adults,노인 천명당 노인여가복지시설 수
+eloc__DT_1YL21051__자동차천대당교통사고발생건수＜br＞(A÷B×1000),traffic_accidents_per_1000_cars,Traffic accidents per 1000 cars,자동차 천대당 교통사고 건수
+eloc__DT_1YL21081__주민만명당화재발생건수＜br＞(A÷B×10000),fires_per_10000,Fires per 10000 residents,주민 만명당 화재 건수
+eloc__DT_1YL21271__인구천명당외국인수＜br＞(A÷B×1000),foreigners_per_1000,Foreign residents per 1000,인구 천명당 외국인 수
+eloc__DT_1YL21311__생활계폐기물재활용률＜br＞(A÷B×100),waste_recycling_rate,Household waste recycling rate (%),생활계폐기물 재활용률
+eloc__DT_1YL21321__주민1인당생활계폐기물배출량＜br＞(A÷B)*1000,waste_per_capita,Household waste per capita (kg/day),주민 1인당 생활계폐기물 배출량
+eloc__INH_1B8000I_01__조이혼율(천명당),crude_divorce_rate,Crude divorce rate (per 1000),조이혼율
+eloc__INH_1BB0002__다문화혼인비중(%),multicultural_marriage_share,Multicultural marriage share (%),다문화 혼인 비중
+eloc__INH_1ES3A01S__실업률(％),unemployment_rate,Unemployment rate (%),실업률
+eloc__INH_1ES3A02S_03__고용률(%)__계,employment_rate,Employment rate (%),고용률
+eloc__INH_1ES3A02S_03__고용률(%)__여자,female_employment_rate,Female employment rate (%),여성 고용률
+kchs__DT_117075_H_BELT_BACK__SR,rear_seatbelt_wearing_rate,Rear-seat belt wearing rate (SR %),뒷좌석 안전벨트 착용률
+kchs__DT_117075_H_DR_DRIV__SR,drunk_driving_experience_rate,Drunk-driving experience rate (SR %),연간 음주운전 경험률
+kchs__DT_11775_NUT_LABEL_UTIL__SR,nutrition_label_use_rate,Nutrition-label use rate (SR %),영양표시 활용률
+kchs__DT_CPR_AWAR__SR,cpr_awareness_rate,CPR awareness rate (SR %),심폐소생술 인지율
+kchs__DT_CPR_EDU__SR,cpr_training_rate,CPR training experience rate (SR %),심폐소생술 교육경험률
+kchs__DT_HEALTH_RECOG__SR,good_self_rated_health_rate,Good self-rated health rate (SR %),주관적 건강인지율
+kchs__DT_H_DR_MONTH__SR,monthly_drinking_rate,Monthly drinking rate (SR %),월간음주율
+kchs__DT_H_HAND_WASH__SR,handwashing_after_outing_rate,Handwashing-after-outing rate (SR %),외출 후 손 씻기 실천율
+kchs__DT_H_SM_MALE__SR,male_current_smoking_rate,Male current smoking rate (SR %),남자 현재흡연율
+kchs__DT_H_SOAP_USE__SR,soap_use_rate,Soap or sanitiser use rate (SR %),비누·손 세정제 사용률
+kchs__DT_NECE_CLINIC__SR,public_health_centre_use_rate,Annual public health centre use rate (SR %),연간 보건기관 이용률
+pop__모평균출산연령,mean_maternal_age,Mean maternal age at birth (y),모의 평균 출산연령
+pop__연령별출산율_35_39,fertility_rate_35_39,Age-specific fertility rate 35-39,연령별 출산율(35-39세)
+pop__평균초혼연령_아내,mean_age_first_marriage_wife,Mean age at first marriage (wife),평균 초혼연령(아내)
+vil__등산로,village_hiking_trails_per_100k,Village hiking trails per 100k,마을 등산로 수(10만 명당)
+vil__체력단련시설_점,village_fitness_facilities_per_100k,Village fitness facilities per 100k,마을 체력단련시설 수(10만 명당)
+kchs__DT_117075_DIE_LOW_SALT_1__SR,low_salt_preference_rate,Low-salt preference rate (SR %),저염선호율
+eloc__DT_1YL20643__청년인구비율__청년여성비율(19~39세),young_female_share,Young female (19-39 y) share (%),청년여성비율(19~39세)
+ext__pop80_share,pop80_share,Population aged 80+ share (%),80세 이상 인구 비율
+ext__liverB_share,screening_normalB_liver_share,Screening normal-B liver-function-management share (%),검진 정상B 간기능관리 비율
+ext__alcohol_venues_per10k,alcohol_venues_per10k,Entertainment and singing bars per 10k,유흥·단란주점 수(1만 명당)
+ext__restaurants_per10k,restaurants_per10k,General restaurants per 10k,일반음식점 수(1만 명당)
+ext__delivery_per10k,delivery_food_outlets_per10k,Delivery-oriented food outlets per 10k,배달 위주 업소 수(1만 명당)
+ext__outside_care_share,outside_care_share,Out-of-district outpatient share (%),관외 외래 진료 비율
+chk__대사_복부비만_비율,screening_abdominal_obesity_share,Screening abdominal obesity share (%),검진 복부비만 비율
+kchs__DT_INFLUENZA__SR,influenza_vaccination_rate,Annual influenza vaccination rate (SR %),연간 인플루엔자 예방접종률
+ext__factory_land_share,factory_land_share,Factory land share of district area (%),공장용지 면적 비율
+kchs__DT_H_MENTAL_DEPRESS__SR,depressive_mood_rate,Depressive-mood experience rate (SR %),우울감 경험률
+eloc__INH_1EA1011_01__농가인구,farm_population_share,Farm-household population share (%),농가인구 비율
+ext__basic_livelihood_rate,basic_livelihood_rate,Basic-livelihood security recipient rate (%),국민기초생활보장 수급자 비율
+ext__farm_share_ward0,farm_population_share_ward0,Farm-household population share (wards set to 0) (%),농가인구 비율(자치구 0)
+kchs__DT_HYPER_DOCTOR__SR,hypertension_diagnosis_rate,Diagnosed hypertension rate (age 30+; SR %),고혈압 진단 경험률
+kchs__DT_HYPER_DOCTOR_DRUG__SR,hypertension_treatment_rate,Treatment rate among diagnosed hypertension (SR %),고혈압 진단자 치료율
+kchs__DT_DIA_DOCTOR__SR,diabetes_diagnosis_rate,Diagnosed diabetes rate (age 30+; SR %),당뇨병 진단 경험률
+ext__em_specialists_per100k,em_specialists_per_100k,Emergency-medicine specialists per 100k,응급의학과 전문의 수(10만 명당)
+chk__요양기관_종합병원,general_hospitals_per_100k,General hospitals per 100k,종합병원 수(10만 명당)
+chk__질환의심_고혈압당뇨_고혈압_수검자대비비율,screening_suspected_hypertension_share,Screening-measured suspected hypertension share (%),검진 고혈압 질환의심 비율
+chk__질환의심_고혈압당뇨_당뇨병_수검자대비비율,screening_suspected_diabetes_share,Screening-measured suspected diabetes share (%),검진 당뇨 질환의심 비율
+chk__질환의심_신장질환_수검자대비비율,screening_suspected_kidney_share,Screening suspected kidney disease share (%),검진 신장질환 의심 비율
+kchs__DT_117075_HYPER_AWAR__SR,bp_awareness_rate,Blood pressure awareness rate (SR %),혈압수치 인지율
+ext__tertiary_educated_share,tertiary_educated_share,Tertiary-educated share (%),고등교육 이수 비율
+ext__ltc_hospitals_per100k_65,ltc_hospitals_per_100k_65,Long-term care hospitals per 100k aged 65+,요양병원 수(65세 이상 10만 명당)
+ext__ill_defined_share,ill_defined_death_share,"Ill-defined cause-of-death share (R00-R99, %)",불명확 사인 사망 비율(R00-R99)
+eloc__DT_1YL20721__전체개통도＜br＞(B),road_length_per_1000,Road length per 1000 residents (km),인구 천명당 도로 연장(km)
+ext__log_pop_density,log_population_density,Population density (log persons per km2),인구밀도(로그)
+ext__breakfast_eating_rate,breakfast_eating_rate,Breakfast-eating rate (%),아침식사율
+ext__hcv_notif_rate_log,hcv_notification_rate_log,Hepatitis C notification rate 2017-2024 (log per 100k),C형간염 신고율(2017-2024 로그 10만 명당)
+ext__dm_suspect_share,screening_diabetes_suspected_share,Screening diabetes-suspected share (%),검진 당뇨병 질환의심 비율
+ext__liver_suspect_share,screening_liver_disease_suspected_share,Screening liver-disease-suspected share (%),검진 간장질환 질환의심 비율
+ext__im_specialists_per100k,im_specialists_per_100k,Internal-medicine specialists per 100k,내과 전문의 수(10만 명당)
+ext__inland_water_share,inland_water_share,Inland water land share (rivers + reservoirs + ditches; % of area),내수면(하천·유지·구거) 면적 비율
+ext__coastal,coastal_district,Coastal district (sea coastline > 4 km),해안 시군구
+kchs__DT_DIA_TREAT__SR,diabetes_treatment_rate,Treatment rate among adults with diagnosed diabetes (age 30+; SR %),당뇨병 진단자 치료율
+kchs__DT_DIA_EYE__SR,diabetic_eye_exam_rate,Annual diabetic retinopathy screening rate (age 30+; SR %),당뇨병 안저검사 수진율
+kchs__DT_DIA_KIDNEY__SR,diabetic_kidney_test_rate,Annual diabetic microalbuminuria test rate (age 30+; SR %),당뇨병 미세단백뇨검사 수진율
+kchs__DT_117075_DIA_AWAR__SR,glucose_awareness_rate,Blood glucose level awareness rate (SR %),혈당수치 인지율
+chk__유질환자_폐결핵_수검자대비비율,prior_tb_share,Screening prior pulmonary tuberculosis share (%),검진 폐결핵 유질환자 비율
+ext__coal_host,coal_plant_host,Coal-fired power plant host district (0/1),석탄 화력발전소 소재(0/1)
+ext__detached_hh_share,detached_house_households,Households in detached houses (%),단독주택 거주 가구 비율
+ext__coal_gw,coal_capacity_gw,Coal-fired capacity hosted (GW),석탄 화력 설비용량(GW)
+ext__coal_near,coal_plant_host_or_adjacent,Coal plant host or adjacent district (0/1),석탄 발전소 소재·인접(0/1)
+chk__질환의심_폐결핵_수검자대비비율,tb_suspected_screening,Suspected pulmonary tuberculosis on screening chest radiography (% of screened),검진 흉부촬영 폐결핵 의심 비율
+ext__temp_annual,annual_mean_temperature,Annual mean temperature (°C),연평균 기온(℃)
+ext__public_baths_per10k,public_baths_per_10k,Public bathhouses per 10 000,목욕장업 수(인구 1만 명당)
+ext__dentists_per100k,dentists_per_100k,Dentists per 100k (log),치과의사 수(10만 명당 로그)
+ext__genhosp_per100k,genhosp_per100k,General hospitals per 100k,종합병원 수(10만 명당)
+ext__green_area_share,green_area_share,Green-zone share of urban area (%),녹지율
+ext__paddy_share,paddy_field_share,Paddy-field land share (% of area),논(답) 면적 비율
+ext__upland_share,upland_field_share,Upland dry-field land share (% of area),밭(전) 면적 비율
+ext__forest_share,forest_land_share,Forest land share (% of area),임야 면적 비율
+ext__old_housing_share,old_housing_share,Old housing share (%),노후 주택 비율
+ext__precip_annual,annual_precipitation,Annual precipitation (mm),연 강수량(mm)
+ext__hfrs_cases,hfrs_cases,Notified HFRS cases,신증후군출혈열 신고 건수
+ext__lept_cases,lept_cases,Notified leptospirosis cases,렙토스피라증 신고 건수
+ext__foreign_residents_per1000,foreign_residents_per_1000,Foreign residents per 1000 (log1p),인구 천명당 외국인 주민
+ext__cx_screening_uptake,cervical_screening_uptake,Cervical screening uptake (%),자궁경부암 검진 수검률
+ext__screening_clinic_share,screening_clinic_share,Clinic share among screening institutions (%),검진기관 중 의원 비율
+ext__farmland_share,farmland_share,"Farmland (paddy, dry field and orchard) share of land area (%)",농경지(답·전·과수원) 면적 비율
+ext__autumn_temp,autumn_mean_temperature,Autumn (September–November) mean temperature (°C),가을(9–11월) 평균기온
+ext__autumn_precip,autumn_precipitation,Autumn (September–November) precipitation (mm),가을(9–11월) 강수량
+ext__summer_precip,summer_precipitation,Summer (June–August) precipitation (mm),여름(6–8월) 강수량
+ext__annual_temp,annual_mean_temperature_era5,"Annual mean temperature, ERA5 (°C)",연평균기온(ERA5)
+ext__moderate_pa_rate,moderate_pa_rate,Moderate-or-higher physical activity rate (SR %),중강도 이상 신체활동 실천율
+ext__urban_population_share,urban_population_share,Urban-zone population share (%),도시지역 인구 비율
+ext__physicians_per_1000,physicians_per_1000,Physicians per 1000,인구 천명당 의사 수
+ext__sex_ratio,sex_ratio,Sex ratio (men per 100 women),남녀성비
+ext__fiscal_independence,fiscal_independence,Fiscal independence (%),재정자주도
+ext__hit_and_run_rate,hit_and_run_rate,Hit-and-run traffic accident rate (%),뺑소니 교통사고율
+ext__traffic_culture_index,traffic_culture_index,Traffic culture index,교통문화지수
+ext__fires_per_10000,fires_per_10000,Fires per 10 000 residents,주민 만명당 화재 발생 건수
+ext__livestock_farm_density,livestock_farm_density,"Livestock holdings density (beef cattle, dairy and pig farms per km2, log1p)",축산 농가 밀도(한우·젖소·돼지 농가 수/km² 로그)
+ext__lept_rain_aug_oct,rain_aug_oct,August–October precipitation (mm),8–10월 강수량(mm)
+ext__lept_heavy_rain_days,heavy_rain_days,Days with ≥80 mm daily precipitation in June–October,6–10월 일강수 80 mm 이상 일수
+ext__lept_temp_mean,annual_mean_temperature_asos,"Annual mean temperature, ASOS stations (°C)","연평균 기온(ASOS, ℃)"
+ext__lept_precip_annual,annual_precipitation_asos,"Annual precipitation, ASOS stations (mm)","연 강수량(ASOS, mm)"
+ext__exam_per_1000_40p,liver_screening_tests_per_1000_40p,Liver cancer screening tests per 1000 adults aged 40+,40세 이상 1천 명당 간암 검진 건수
+ext__tbnw_cases,tbnw_cases,Notified new tuberculosis cases,결핵 신환자 신고 수
+ext__older_single_household_share,older_single_household_share,Older-adult single-person household share (%),독거노인가구비율
+ext__medical_aid1_patients_per_100k,medical_aid1_patients_per_100k,Medical Aid type 1 treated patients per 100k,의료급여 1종 진료실인원(10만 명당)
+ext__screening_suspected_diabetes_share,screening_suspected_diabetes_share,Screening-measured suspected diabetes share (%),검진 당뇨 질환의심 비율
+ext__current_smoking_rate,current_smoking_rate,Current smoking rate (SR %),현재흡연율
+ext__general_hospitals_per_100k,general_hospitals_per_100k,General hospitals per 100k,종합병원 수(10만 명당)
+ext__high_risk_drinking_rate,high_risk_drinking_rate,High-risk drinking rate (SR %),고위험음주율

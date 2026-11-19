@@ -1,0 +1,925 @@
+{
+ "andersen1995revisiting": {
+  "type": "journal",
+  "authors": [
+   "Andersen RM"
+  ],
+  "title": "Revisiting the behavioral model and access to medical care: does it matter?",
+  "journal": "J Health Soc Behav",
+  "year": 1995,
+  "vol": "36",
+  "issue": "1",
+  "pages": "1-10",
+  "doi": "",
+  "pmid": "7738325",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "Journal of health and social behavior"
+ },
+ "ganbavale2024neighborhood": {
+  "type": "journal",
+  "authors": [
+   "Ganbavale SG",
+   "Papachristou E",
+   "Mathers JC",
+   "Papacosta AO",
+   "Lennon LT",
+   "Whincup PH",
+   "Wannamethee SG",
+   "Ramsay SE"
+  ],
+  "title": "Neighborhood Deprivation and Changes in Oral Health in Older Age: a Longitudinal Population-Based Study",
+  "journal": "J Dent Res",
+  "year": 2024,
+  "vol": "103",
+  "issue": "4",
+  "pages": "434-441",
+  "doi": "10.1177/00220345231224337",
+  "pmid": "38414259",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "Journal of dental research"
+ },
+ "kang2015korea": {
+  "type": "journal",
+  "authors": [
+   "Kang YW",
+   "Ko YS",
+   "Kim YJ",
+   "Sung KM",
+   "Kim HJ",
+   "Choi HY",
+   "Sung C",
+   "Jeong E"
+  ],
+  "title": "Korea Community Health Survey data profiles",
+  "journal": "Osong Public Health Res Perspect",
+  "year": 2015,
+  "vol": "6",
+  "issue": "3",
+  "pages": "211-217",
+  "doi": "10.1016/j.phrp.2015.05.003",
+  "pmid": "26430619",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "Osong public health and research perspectives"
+ },
+ "knorrheld2000bayesian": {
+  "type": "journal",
+  "authors": [
+   "Knorr-Held L"
+  ],
+  "title": "Bayesian modelling of inseparable space-time variation in disease risk",
+  "journal": "Stat Med",
+  "year": 2000,
+  "vol": "19",
+  "issue": "17-18",
+  "pages": "2555-2567",
+  "doi": "",
+  "pmid": "10960871",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "Statistics in medicine"
+ },
+ "lipsitch2010negative": {
+  "type": "journal",
+  "authors": [
+   "Lipsitch M",
+   "Tchetgen Tchetgen E",
+   "Cohen T"
+  ],
+  "title": "Negative controls: a tool for detecting confounding and bias in observational studies",
+  "journal": "Epidemiology",
+  "year": 2010,
+  "vol": "21",
+  "issue": "3",
+  "pages": "383-388",
+  "doi": "10.1097/EDE.0b013e3181d61eeb",
+  "pmid": "20335814",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "Epidemiology (Cambridge, Mass.)"
+ },
+ "mercer2015space": {
+  "type": "journal",
+  "authors": [
+   "Mercer LD",
+   "Wakefield J",
+   "Pantazis A",
+   "Lutambi AM",
+   "Masanja H",
+   "Clark S"
+  ],
+  "title": "Space-time smoothing of complex survey data: small area estimation for child mortality",
+  "journal": "Ann Appl Stat",
+  "year": 2015,
+  "vol": "9",
+  "issue": "4",
+  "pages": "1889-1905",
+  "doi": "10.1214/15-AOAS872",
+  "pmid": "27468328",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "The annals of applied statistics"
+ },
+ "riebler2016intuitive": {
+  "type": "journal",
+  "authors": [
+   "Riebler A",
+   "Sørbye SH",
+   "Simpson D",
+   "Rue H"
+  ],
+  "title": "An intuitive Bayesian spatial model for disease mapping that accounts for scaling",
+  "journal": "Stat Methods Med Res",
+  "year": 2016,
+  "vol": "25",
+  "issue": "4",
+  "pages": "1145-1165",
+  "doi": "10.1177/0962280216660421",
+  "pmid": "27566770",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "Statistical methods in medical research"
+ },
+ "steegen2016increasing": {
+  "type": "journal",
+  "authors": [
+   "Steegen S",
+   "Tuerlinckx F",
+   "Gelman A",
+   "Vanpaemel W"
+  ],
+  "title": "Increasing transparency through a multiverse analysis",
+  "journal": "Perspect Psychol Sci",
+  "year": 2016,
+  "vol": "11",
+  "issue": "5",
+  "pages": "702-712",
+  "doi": "10.1177/1745691616658637",
+  "pmid": "27694465",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "Perspectives on psychological science : a journal of the Association for Psychological Science"
+ },
+ "vonelm2007strengthening": {
+  "type": "journal",
+  "authors": [
+   "von Elm E",
+   "Altman DG",
+   "Egger M",
+   "Pocock SJ",
+   "Gøtzsche PC",
+   "Vandenbroucke JP"
+  ],
+  "title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+  "journal": "Lancet",
+  "year": 2007,
+  "vol": "370",
+  "issue": "9596",
+  "pages": "1453-1457",
+  "doi": "10.1016/S0140-6736(07)61602-X",
+  "pmid": "18064739",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "Lancet (London, England)"
+ },
+ "dupont2022spatial": {
+  "type": "journal",
+  "authors": [
+   "Dupont E",
+   "Wood SN",
+   "Augustin NH"
+  ],
+  "title": "Spatial+: a novel approach to spatial confounding",
+  "journal": "Biometrics",
+  "year": 2022,
+  "vol": "78",
+  "issue": "4",
+  "pages": "1279-1290",
+  "doi": "10.1111/biom.13656",
+  "pmid": "35258102",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "Biometrics"
+ },
+ "bell2015explaining": {
+  "type": "journal",
+  "authors": [
+   "Bell A",
+   "Jones K"
+  ],
+  "title": "Explaining Fixed Effects: random Effects Modeling of Time-Series Cross-Sectional and Panel Data",
+  "journal": "Polit Sci Res Methods",
+  "year": 2015,
+  "vol": "3",
+  "issue": "1",
+  "pages": "133-153",
+  "doi": "10.1017/psrm.2014.7",
+  "verified": "Crossref 2026-11-12"
+ },
+ "fay1979estimates": {
+  "type": "journal",
+  "authors": [
+   "Fay RE",
+   "Herriot RA"
+  ],
+  "title": "Estimates of income for small places: an application of James-Stein procedures to census data",
+  "journal": "J Am Stat Assoc",
+  "year": 1979,
+  "vol": "74",
+  "issue": "366",
+  "pages": "269-277",
+  "doi": "10.1080/01621459.1979.10482505",
+  "verified": "Crossref 2026-11-12"
+ },
+ "hodges2010adding": {
+  "type": "journal",
+  "authors": [
+   "Hodges JS",
+   "Reich BJ"
+  ],
+  "title": "Adding spatially-correlated errors can mess up the fixed effect you love",
+  "journal": "Am Stat",
+  "year": 2010,
+  "vol": "64",
+  "issue": "4",
+  "pages": "325-334",
+  "doi": "10.1198/tast.2010.10052",
+  "verified": "Crossref 2026-11-12"
+ },
+ "rue2009approximate": {
+  "type": "journal",
+  "authors": [
+   "Rue H",
+   "Martino S",
+   "Chopin N"
+  ],
+  "title": "Approximate Bayesian inference for latent Gaussian models by using integrated nested Laplace approximations",
+  "journal": "J R Stat Soc Series B Stat Methodol",
+  "year": 2009,
+  "vol": "71",
+  "issue": "2",
+  "pages": "319-392",
+  "doi": "10.1111/j.1467-9868.2008.00700.x",
+  "verified": "Crossref 2026-11-12"
+ },
+ "simpson2017penalising": {
+  "type": "journal",
+  "authors": [
+   "Simpson D",
+   "Rue H",
+   "Riebler A",
+   "Martins TG",
+   "Sørbye SH"
+  ],
+  "title": "Penalising model component complexity: a principled, practical approach to constructing priors",
+  "journal": "Stat Sci",
+  "year": 2017,
+  "vol": "32",
+  "issue": "1",
+  "pages": "1-28",
+  "doi": "10.1214/16-STS576",
+  "verified": "Crossref 2026-11-12"
+ },
+ "web:kdca2026kchs": {
+  "type": "web",
+  "authors": "Korea Disease Control and Prevention Agency",
+  "title": "Korea Community Health Survey: district toothbrushing after lunch (table DT_H_OR_BRUSH) and health behaviour indicators, 2014-2024. Korean Statistical Information Service",
+  "url": "https://kosis.kr/statHtml/statHtml.do?orgId=177&tblId=DT_H_OR_BRUSH",
+  "year": 2026,
+  "accessed": "19 November 2026"
+ },
+ "web:rcore2026": {
+  "type": "web",
+  "authors": "R Core Team",
+  "title": "R: a language and environment for statistical computing. Version 4.6.0. Vienna: R Foundation for Statistical Computing",
+  "url": "https://www.R-project.org",
+  "year": 2026,
+  "accessed": "November 12, 2026"
+ },
+ "greenland1989ecological": {
+  "type": "journal",
+  "authors": [
+   "Greenland S",
+   "Morgenstern H"
+  ],
+  "title": "Ecological bias, confounding, and effect modification",
+  "journal": "Int J Epidemiol",
+  "year": 1989,
+  "vol": "18",
+  "issue": "1",
+  "pages": "269-274",
+  "doi": "10.1093/ije/18.1.269",
+  "pmid": "2656561",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "International journal of epidemiology"
+ },
+ "peres2019oral": {
+  "type": "journal",
+  "authors": [
+   "Peres MA",
+   "Macpherson LMD",
+   "Weyant RJ",
+   "Daly B",
+   "Venturelli R",
+   "Mathur MR",
+   "Listl S",
+   "Celeste RK",
+   "Guarnizo-Herreño CC",
+   "Kearns C",
+   "Benzian H",
+   "Allison P",
+   "Watt RG"
+  ],
+  "title": "Oral diseases: a global public health challenge",
+  "journal": "Lancet",
+  "year": 2019,
+  "vol": "394",
+  "issue": "10194",
+  "pages": "249-260",
+  "doi": "10.1016/S0140-6736(19)31146-8",
+  "pmid": "31327369",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "Lancet (London, England)"
+ },
+ "kassebaum2017global": {
+  "type": "journal",
+  "authors": [
+   "Kassebaum NJ",
+   "Smith AGC",
+   "Bernabé E",
+   "Fleming TD",
+   "Reynolds AE",
+   "Vos T",
+   "Murray CJL",
+   "Marcenes W"
+  ],
+  "title": "Global, Regional, and National Prevalence, Incidence, and Disability-Adjusted Life Years for Oral Conditions for 195 Countries, 1990-2015: a Systematic Analysis for the Global Burden of Diseases, Injuries, and Risk Factors",
+  "journal": "J Dent Res",
+  "year": 2017,
+  "vol": "96",
+  "issue": "4",
+  "pages": "380-387",
+  "doi": "10.1177/0022034517693566",
+  "pmid": "28792274",
+  "verified": "PubMed esummary 2026-11-12",
+  "journal_full": "Journal of dental research"
+ },
+ "lee2023factors": {
+  "type": "journal",
+  "authors": [
+   "Lee HY",
+   "Kim NH",
+   "Jeong JY",
+   "Shin SJ",
+   "Park HJ",
+   "Kawachi I"
+  ],
+  "title": "Factors predicting different times for brushing teeth during the day: multilevel analyses",
+  "journal": "BMC Oral Health",
+  "year": 2023,
+  "vol": "23",
+  "issue": "1",
+  "pages": "916",
+  "doi": "10.1186/s12903-023-03555-1",
+  "pmid": "38001518",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "BMC oral health"
+ },
+ "son2026health": {
+  "type": "journal",
+  "authors": [
+   "Son JY",
+   "Son SY"
+  ],
+  "title": "Health Literacy and Time-Specific Toothbrushing Practices in Older Adults: An Analysis of the Korean National Health and Nutrition Examination Survey, KNHANES IX (2023)",
+  "journal": "Gerodontology",
+  "year": 2026,
+  "vol": "43",
+  "issue": "3",
+  "pages": "575-582",
+  "doi": "10.1111/ger.70094",
+  "pmid": "42204889",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Gerodontology"
+ },
+ "cho2024association": {
+  "type": "journal",
+  "authors": [
+   "Cho Y",
+   "Shin H",
+   "Lee S",
+   "Kim J",
+   "Shin J",
+   "Kim H"
+  ],
+  "title": "The association between tooth brushing during lunchtime and obesity in South Korean adolescents",
+  "journal": "Sci Rep",
+  "year": 2024,
+  "vol": "14",
+  "issue": "1",
+  "pages": "20730",
+  "doi": "10.1038/s41598-024-68427-2",
+  "pmid": "39251647",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Scientific reports"
+ },
+ "son2026toothbrushing": {
+  "type": "journal",
+  "authors": [
+   "Son JY",
+   "Han DH"
+  ],
+  "title": "Toothbrushing behavior changes among Korean students pre- and post-COVID-19: lessons and policy implications",
+  "journal": "BMC Oral Health",
+  "year": 2026,
+  "vol": "26",
+  "issue": "1",
+  "pages": "1737",
+  "doi": "10.1186/s12903-026-09051-6",
+  "pmid": "42374360",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "BMC oral health"
+ },
+ "shin2026longterm": {
+  "type": "journal",
+  "authors": [
+   "Shin HS",
+   "Han DH"
+  ],
+  "title": "Long-term Oral Hygiene Habits of South Korean Adolescents: Focusing on Compliance Changes in Handwashing and Post-lunch Toothbrushing Consequential to the COVID-19 Pandemic",
+  "journal": "Int Dent J",
+  "year": 2026,
+  "vol": "76",
+  "issue": "5",
+  "pages": "109781",
+  "doi": "10.1016/j.identj.2026.109781",
+  "pmid": "42624034",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "International dental journal"
+ },
+ "kawachi2025gender": {
+  "type": "journal",
+  "authors": [
+   "Kawachi I",
+   "Ryu JI"
+  ],
+  "title": "Gender gap in tooth brushing among Korean adolescents",
+  "journal": "BMC Oral Health",
+  "year": 2025,
+  "vol": "25",
+  "issue": "1",
+  "pages": "938",
+  "doi": "10.1186/s12903-025-06323-5",
+  "pmid": "40481459",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "BMC oral health"
+ },
+ "park2026association": {
+  "type": "journal",
+  "authors": [
+   "Park S",
+   "Kim DE",
+   "Park SJ",
+   "Song J",
+   "Kim HJ",
+   "Lee SK",
+   "Shin HY",
+   "Cho HJ",
+   "Park SM"
+  ],
+  "title": "Association of toothbrushing, dental flossing, and interdental brushing with stroke risk",
+  "journal": "J Dent",
+  "year": 2026,
+  "vol": "174",
+  "issue": null,
+  "pages": "106882",
+  "doi": "10.1016/j.jdent.2026.106882",
+  "pmid": "42401333",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Journal of dentistry"
+ },
+ "chang2021better": {
+  "type": "journal",
+  "authors": [
+   "Chang Y",
+   "Woo HG",
+   "Lee JS",
+   "Song TJ"
+  ],
+  "title": "Better oral hygiene is associated with lower risk of stroke",
+  "journal": "J Periodontol",
+  "year": 2021,
+  "vol": "92",
+  "issue": "1",
+  "pages": "87-94",
+  "doi": "10.1002/JPER.20-0053",
+  "pmid": "32432793",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Journal of periodontology"
+ },
+ "chang2020improved": {
+  "type": "journal",
+  "authors": [
+   "Chang Y",
+   "Woo HG",
+   "Park J",
+   "Lee JS",
+   "Song TJ"
+  ],
+  "title": "Improved oral hygiene care is associated with decreased risk of occurrence for atrial fibrillation and heart failure: A nationwide population-based cohort study",
+  "journal": "Eur J Prev Cardiol",
+  "year": 2020,
+  "vol": "27",
+  "issue": "17",
+  "pages": "1835-1845",
+  "doi": "10.1177/2047487319886018",
+  "pmid": "31786965",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "European journal of preventive cardiology"
+ },
+ "moon2024association": {
+  "type": "journal",
+  "authors": [
+   "Moon MG",
+   "Kang SH",
+   "Kim SH",
+   "Park SY",
+   "Seol YJ",
+   "Yoon CH",
+   "Lee HJ",
+   "Youn TJ",
+   "Chae IH",
+   "Leira Y",
+   "Munoz-Aguilera E",
+   "D'Aiuto F"
+  ],
+  "title": "Association between toothbrushing and cardiovascular risk factors: a cross-sectional study using Korean National Health and Nutrition Examination Survey 2015-2017",
+  "journal": "BMC Oral Health",
+  "year": 2024,
+  "vol": "24",
+  "issue": "1",
+  "pages": "4",
+  "doi": "10.1186/s12903-023-03775-5",
+  "pmid": "38167045",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "BMC oral health"
+ },
+ "hwang2022association": {
+  "type": "journal",
+  "authors": [
+   "Hwang SY",
+   "Oh H",
+   "Rhee MY",
+   "Kang S",
+   "Kim HY"
+  ],
+  "title": "Association of periodontitis, missing teeth, and oral hygiene behaviors with the incidence of hypertension in middle-aged and older adults in Korea: A 10-year follow-up study",
+  "journal": "J Periodontol",
+  "year": 2022,
+  "vol": "93",
+  "issue": "9",
+  "pages": "1283-1293",
+  "doi": "10.1002/JPER.21-0706",
+  "pmid": "35446990",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Journal of periodontology"
+ },
+ "kim2021association": {
+  "type": "journal",
+  "authors": [
+   "Kim JY",
+   "Park YM",
+   "Lee GN",
+   "Song HC",
+   "Ahn YB",
+   "Han K",
+   "Ko SH"
+  ],
+  "title": "Association between toothbrushing and non-alcoholic fatty liver disease",
+  "journal": "PLoS One",
+  "year": 2021,
+  "vol": "16",
+  "issue": "5",
+  "pages": "e0243686",
+  "doi": "10.1371/journal.pone.0243686",
+  "pmid": "34043630",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "PloS one"
+ },
+ "sanders2005clustering": {
+  "type": "journal",
+  "authors": [
+   "Sanders AE",
+   "Spencer AJ",
+   "Stewart JF"
+  ],
+  "title": "Clustering of risk behaviours for oral and general health",
+  "journal": "Community Dent Health",
+  "year": 2005,
+  "vol": "22",
+  "issue": "3",
+  "pages": "133-140",
+  "doi": "",
+  "pmid": "16161875",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Community dental health"
+ },
+ "jordao2018clustering": {
+  "type": "journal",
+  "authors": [
+   "Jordão LMR",
+   "Malta DC",
+   "Freire MDCM"
+  ],
+  "title": "Clustering patterns of oral and general health-risk behaviours in Brazilian adolescents: Findings from a national survey",
+  "journal": "Community Dent Oral Epidemiol",
+  "year": 2018,
+  "vol": "46",
+  "issue": "2",
+  "pages": "194-202",
+  "doi": "10.1111/cdoe.12354",
+  "pmid": "29168590",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Community dentistry and oral epidemiology"
+ },
+ "watts2016clustering": {
+  "type": "journal",
+  "authors": [
+   "Watts P",
+   "Buck D",
+   "Netuveli G",
+   "Renton A"
+  ],
+  "title": "Clustering of lifestyle risk behaviours among residents of forty deprived neighbourhoods in London: lessons for targeting public health interventions",
+  "journal": "J Public Health (Oxf)",
+  "year": 2016,
+  "vol": "38",
+  "issue": "2",
+  "pages": "308-15",
+  "doi": "10.1093/pubmed/fdv028",
+  "pmid": "25762701",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Journal of public health (Oxford, England)"
+ },
+ "raison2021toothbrushing": {
+  "type": "journal",
+  "authors": [
+   "Raison H",
+   "Corcoran R",
+   "Harris RV"
+  ],
+  "title": "Is toothbrushing behaviour habitual? Cues, context, motivators and patient narratives",
+  "journal": "Community Dent Oral Epidemiol",
+  "year": 2021,
+  "vol": "49",
+  "issue": "5",
+  "pages": "478-486",
+  "doi": "10.1111/cdoe.12624",
+  "pmid": "33638565",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Community dentistry and oral epidemiology"
+ },
+ "amaral2023mediating": {
+  "type": "journal",
+  "authors": [
+   "do Amaral Júnior OL",
+   "Fagundes MLB",
+   "Menegazzo GR",
+   "do Amaral Giordani JM"
+  ],
+  "title": "The mediating role of social capital in socioeconomic inequalities of oral health behaviours among Brazilian older adults",
+  "journal": "Community Dent Oral Epidemiol",
+  "year": 2023,
+  "vol": "51",
+  "issue": "5",
+  "pages": "879-886",
+  "doi": "10.1111/cdoe.12780",
+  "pmid": "35964240",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Community dentistry and oral epidemiology"
+ },
+ "steele2015interplay": {
+  "type": "journal",
+  "authors": [
+   "Steele J",
+   "Shen J",
+   "Tsakos G",
+   "Fuller E",
+   "Morris S",
+   "Watt R",
+   "Guarnizo-Herreño C",
+   "Wildman J"
+  ],
+  "title": "The Interplay between socioeconomic inequalities and clinical oral health",
+  "journal": "J Dent Res",
+  "year": 2015,
+  "vol": "94",
+  "issue": "1",
+  "pages": "19-26",
+  "doi": "10.1177/0022034514553978",
+  "pmid": "25344336",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Journal of dental research"
+ },
+ "gbd2025trends": {
+  "type": "journal",
+  "authors": [
+   "GBD 2021 Oral Disorders Collaborators"
+  ],
+  "title": "Trends in the global, regional, and national burden of oral conditions from 1990 to 2021: a systematic analysis for the Global Burden of Disease Study 2021",
+  "journal": "Lancet",
+  "year": 2025,
+  "vol": "405",
+  "issue": "10482",
+  "pages": "897-910",
+  "doi": "10.1016/S0140-6736(24)02811-3",
+  "pmid": "40024264",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Lancet (London, England)"
+ },
+ "zimmermann2015frequency": {
+  "type": "journal",
+  "authors": [
+   "Zimmermann H",
+   "Zimmermann N",
+   "Hagenfeld D",
+   "Veile A",
+   "Kim TS",
+   "Becher H"
+  ],
+  "title": "Is frequency of tooth brushing a risk factor for periodontitis? A systematic review and meta-analysis",
+  "journal": "Community Dent Oral Epidemiol",
+  "year": 2015,
+  "vol": "43",
+  "issue": "2",
+  "pages": "116-27",
+  "doi": "10.1111/cdoe.12126",
+  "pmid": "25255820",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Community dentistry and oral epidemiology"
+ },
+ "lertpimonchai2017association": {
+  "type": "journal",
+  "authors": [
+   "Lertpimonchai A",
+   "Rattanasiri S",
+   "Arj-Ong Vallibhakara S",
+   "Attia J",
+   "Thakkinstian A"
+  ],
+  "title": "The association between oral hygiene and periodontitis: a systematic review and meta-analysis",
+  "journal": "Int Dent J",
+  "year": 2017,
+  "vol": "67",
+  "issue": "6",
+  "pages": "332-343",
+  "doi": "10.1111/idj.12317",
+  "pmid": "28646499",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "International dental journal"
+ },
+ "bakri2023oral": {
+  "type": "journal",
+  "authors": [
+   "Bakri NN",
+   "Smith MB",
+   "Broadbent JM",
+   "Thomson WM"
+  ],
+  "title": "Oral health promotion activities in the workplace: a scoping review",
+  "journal": "Health Promot Int",
+  "year": 2023,
+  "vol": "38",
+  "issue": "3",
+  "pages": "daac039",
+  "doi": "10.1093/heapro/daac039",
+  "pmid": "35425975",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Health promotion international"
+ },
+ "morishita2003effectiveness": {
+  "type": "journal",
+  "authors": [
+   "Morishita M",
+   "Sakemi M",
+   "Tsutsumi M",
+   "Gake S"
+  ],
+  "title": "Effectiveness of an oral health promotion programme at the workplace",
+  "journal": "J Oral Rehabil",
+  "year": 2003,
+  "vol": "30",
+  "issue": "4",
+  "pages": "414-7",
+  "doi": "10.1046/j.1365-2842.2003.01047.x",
+  "pmid": "12631166",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Journal of oral rehabilitation"
+ },
+ "zaborskis2023adolescent": {
+  "type": "journal",
+  "authors": [
+   "Zaborskis A",
+   "Kavaliauskienė A",
+   "Levi S",
+   "Tesler R",
+   "Dimitrova E"
+  ],
+  "title": "Adolescent Toothbrushing and Its Association with Sociodemographic Factors-Time Trends from 1994 to 2018 in Twenty Countries",
+  "journal": "Healthcare (Basel)",
+  "year": 2023,
+  "vol": "11",
+  "issue": "24",
+  "pages": "",
+  "doi": "10.3390/healthcare11243148",
+  "pmid": "38132038",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Healthcare (Basel, Switzerland)"
+ },
+ "raskiliene2020self": {
+  "type": "journal",
+  "authors": [
+   "Raskiliene A",
+   "Kriaucioniene V",
+   "Siudikiene J",
+   "Petkeviciene J"
+  ],
+  "title": "Self-Reported Oral Health, Oral Hygiene and Associated Factors in Lithuanian Adult Population, 1994-2014",
+  "journal": "Int J Environ Res Public Health",
+  "year": 2020,
+  "vol": "17",
+  "issue": "15",
+  "pages": "",
+  "doi": "10.3390/ijerph17155331",
+  "pmid": "32722169",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "International journal of environmental research and public health"
+ },
+ "sabbah2015role": {
+  "type": "journal",
+  "authors": [
+   "Sabbah W",
+   "Suominen AL",
+   "Vehkalahti MM",
+   "Aromaa A",
+   "Bernabé E"
+  ],
+  "title": "The role of behaviour in inequality in increments of dental caries among Finnish adults",
+  "journal": "Caries Res",
+  "year": 2015,
+  "vol": "49",
+  "issue": "1",
+  "pages": "34-40",
+  "doi": "10.1159/000366491",
+  "pmid": "25401295",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Caries research"
+ },
+ "park2026long": {
+  "type": "journal",
+  "authors": [
+   "Park MY",
+   "Ahn J"
+  ],
+  "title": "Long working hours and dental caries: A 12-year longitudinal study of 1.1 million workers",
+  "journal": "Scand J Work Environ Health",
+  "year": 2026,
+  "vol": "52",
+  "issue": "6",
+  "pages": "672-679",
+  "doi": "10.5271/sjweh.4322",
+  "pmid": "42616814",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Scandinavian journal of work, environment & health"
+ },
+ "ide2001evaluation": {
+  "type": "journal",
+  "authors": [
+   "Ide R",
+   "Mizoue T",
+   "Tsukiyama Y",
+   "Ikeda M",
+   "Yoshimura T"
+  ],
+  "title": "Evaluation of oral health promotion in the workplace: the effects on dental care costs and frequency of dental visits",
+  "journal": "Community Dent Oral Epidemiol",
+  "year": 2001,
+  "vol": "29",
+  "issue": "3",
+  "pages": "213-9",
+  "doi": "10.1034/j.1600-0528.2001.290307.x",
+  "pmid": "11409680",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "Community dentistry and oral epidemiology"
+ },
+ "judah2013forming": {
+  "type": "journal",
+  "authors": [
+   "Judah G",
+   "Gardner B",
+   "Aunger R"
+  ],
+  "title": "Forming a flossing habit: an exploratory study of the psychological determinants of habit formation",
+  "journal": "Br J Health Psychol",
+  "year": 2013,
+  "vol": "18",
+  "issue": "2",
+  "pages": "338-53",
+  "doi": "10.1111/j.2044-8287.2012.02086.x",
+  "pmid": "22989272",
+  "verified": "PubMed efetch 2026-11-19",
+  "journal_full": "British journal of health psychology"
+ }
+}

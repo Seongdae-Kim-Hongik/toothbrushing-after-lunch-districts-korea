@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Toothbrushing after lunch across South Korean districts, 2014-2024: analysis code"
+authors:
+  - family-names: Kim
+    given-names: Seongdae
+    affiliation: Hongik University
+    orcid: "https://orcid.org/0000-0002-1525-0091"
+version: "1.0.0"
+date-released: 2026-11-19
+license: MIT
+doi: 10.5281/zenodo.24359315

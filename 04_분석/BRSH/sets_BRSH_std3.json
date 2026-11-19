@@ -1,0 +1,135 @@
+{
+ "tag": "BRSH",
+ "outcome_column": "ext__brsh_SR",
+ "outcome_label_en": "Toothbrushing after lunch, adults ≥19 y (KCHS; brushed teeth after lunch on the previous day; age-sex standardised to the 2005 projected population)",
+ "disease_en": "Toothbrushing after lunch (self-reported)",
+ "disease_ko": "점심 식사 후 칫솔질 실천율",
+ "forced": [
+  "eloc__DT_1YL20421E__1인당도시지역면적현황__도시지역인구",
+  "chk__요양기관_의원",
+  "eloc__DT_1YL20701__남녀성비＜br＞(A÷B×100)",
+  "eloc__DT_1YL20891__재정자주도(세입과목개편전)",
+  "ext__pop80_share"
+ ],
+ "forced_transform": {
+  "eloc__DT_1YL20421E__1인당도시지역면적현황__도시지역인구": "ratio_pop",
+  "chk__요양기관_의원": "per100k",
+  "eloc__DT_1YL20701__남녀성비＜br＞(A÷B×100)": "none",
+  "eloc__DT_1YL20891__재정자주도(세입과목개편전)": "none",
+  "ext__pop80_share": "none"
+ },
+ "negative_controls": [
+  "eloc__DT_1YL21081__주민만명당화재발생건수＜br＞(A÷B×10000)",
+  "eloc__INH_1BB0002__다문화혼인비중(%)",
+  "kchs__DT_117075_H_BELT_BACK__SR"
+ ],
+ "sets": {
+  "S1_narrative_full": [
+   "kchs__DT_H_EX_WALK__SR",
+   "kchs__DT_H_EX_PHY__SR",
+   "fac__total",
+   "kchs__DT_H_SM__SR",
+   "kchs__DT_H_DR_HIGH__SR",
+   "ext__tertiary_educated_share",
+   "ext__basic_livelihood_rate",
+   "ext__dentists_per100k",
+   "ext__manufacturing_share"
+  ],
+  "S2_activity": [
+   "kchs__DT_H_EX_WALK__SR",
+   "kchs__DT_H_EX_PHY__SR",
+   "fac__total"
+  ],
+  "S3_risk_behaviour": [
+   "kchs__DT_H_SM__SR",
+   "kchs__DT_H_DR_HIGH__SR"
+  ],
+  "S4_social_work": [
+   "ext__tertiary_educated_share",
+   "ext__basic_livelihood_rate",
+   "ext__dentists_per100k",
+   "ext__manufacturing_share"
+  ],
+  "S5_core": [
+   "kchs__DT_H_EX_WALK__SR",
+   "kchs__DT_H_SM__SR",
+   "ext__tertiary_educated_share",
+   "ext__dentists_per100k",
+   "ext__manufacturing_share"
+  ],
+  "REF_forced_only": []
+ },
+ "expected_direction": {
+  "kchs__DT_H_EX_WALK__SR": "+",
+  "kchs__DT_H_EX_PHY__SR": "+",
+  "fac__total": "+",
+  "kchs__DT_H_SM__SR": "-",
+  "kchs__DT_H_DR_HIGH__SR": "-",
+  "ext__tertiary_educated_share": "+",
+  "ext__basic_livelihood_rate": "-",
+  "ext__dentists_per100k": "+",
+  "ext__manufacturing_share": "-"
+ },
+ "include_transform": {
+  "kchs__DT_H_EX_WALK__SR": "none",
+  "kchs__DT_H_EX_PHY__SR": "none",
+  "fac__total": "per100k",
+  "kchs__DT_H_SM__SR": "none",
+  "kchs__DT_H_DR_HIGH__SR": "none",
+  "ext__tertiary_educated_share": "none",
+  "ext__basic_livelihood_rate": "none",
+  "ext__dentists_per100k": "log",
+  "ext__manufacturing_share": "none",
+  "eloc__DT_1YL21081__주민만명당화재발생건수＜br＞(A÷B×10000)": "none",
+  "eloc__INH_1BB0002__다문화혼인비중(%)": "none",
+  "kchs__DT_117075_H_BELT_BACK__SR": "none"
+ },
+ "rules": {
+  "vif_drop": 10,
+  "multiverse_specs": 200,
+  "effect_scale": "per 1 SD (OR of toothbrushing-after-lunch prevalence)",
+  "main_set": "S1_narrative_full",
+  "windows": {
+   "W1_2014-19": [
+    2014,
+    2019
+   ],
+   "W2_2020-24": [
+    2020,
+    2024
+   ]
+  },
+  "years": [
+   2014,
+   2024
+  ],
+  "covid_post_from": 2020
+ },
+ "extra_columns": {
+  "ext__pop80_share": [
+   "HTN_Estd2.csv",
+   "pop80_share_raw"
+  ],
+  "ext__brsh_SR": [
+   "EXT_canonical_pool_BRSH_261119.csv",
+   "brsh_SR"
+  ],
+  "ext__dentists_per100k": [
+   "EXT_canonical_pool_BRSH_261119.csv",
+   "dentists_per100k"
+  ],
+  "ext__tertiary_educated_share": [
+   "EXT_canonical_pool_BRSH_261119.csv",
+   "tertiary_educated_share"
+  ],
+  "ext__basic_livelihood_rate": [
+   "EXT_canonical_pool_BRSH_261119.csv",
+   "basic_livelihood_rate"
+  ],
+  "ext__manufacturing_share": [
+   "EXT_canonical_pool_BRSH_261119.csv",
+   "manufacturing_share"
+  ]
+ },
+ "graph": "593-edge contact graph, ST_GRAPH=04_분석/BRSH/graph_593.graph"
+}
